@@ -7,9 +7,9 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 - yakında javascript surumu gelcektir
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/newname58q/tagger)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tuncay456/tagger11)
 
 ### 🎯 Krediler ve Diğer
-- [Ben](https://github.com/newname58q) bu Proje için ;)
+- [Ben](https://github.com/tuncay123) bu Proje için ;)
 
 **Beni Github'dan takip etmeyi unutmayın ✌️**
