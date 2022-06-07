@@ -27,10 +27,10 @@ async def cancel(event):
 async def start(event):
   await event.reply("**ᴛᴀɢɢᴇʀʙᴏᴛꜱ**, ɢʀᴜᴘ ᴠᴇʏᴀ ᴋᴀɴᴀʟᴅᴀᴋɪ ɴᴇʀᴇᴅᴇʏꜱᴇ ᴛᴜᴍ ᴜʏᴇʟᴇʀᴅᴇɴ ʙᴀʜꜱᴇᴅᴇʙɪʟɪʀɪᴍ ʙᴜ ᴛᴜʀ ʙᴏᴛʟᴀʀ ɪᴄɪɴ ᴋᴏᴅ ꜱᴀʜɪʙɪ ɪʟᴇ ɪʟᴇᴛɪꜱɪᴍᴇ ɢᴇᴄɪɴ @jackdanielssx ★\nᴅᴀʜᴀ ꜰᴀᴢʟᴀ ʙɪʟɢɪ ɪᴄɪɴ **/help**'i ᴛɪᴋʟᴀʏɪɴ.",
                     buttons=(
-                      [Button.url('🌟 ʙᴇɴɪ ʙɪʀ ɢʀᴜʙᴀ ᴇᴋʟᴇ', 'https://t.me/jacktaggerbot?startgroup=a'),
-                      Button.url('📣 ꜱᴜᴘᴘᴏʀᴛ', 'https://t.me/jackdanielssx'),
-                      Button.url('💻 ᴄʀᴇᴀᴛᴏʀ', 'https://t.me/jackdanielssx'),
-                      Button.url('🚀 ꜱᴀʜɪʙɪᴍ', 'https://t.me/jackdanielssx')]
+                      
+                      Button.url('📣 ꜱᴜᴘᴘᴏʀᴛ', 'https://t.me/Nevarevladim'),
+                      Button.url('💻 ᴄʀᴇᴀᴛᴏʀ', 'https://t.me/Nevarevladim'),
+                      Button.url('🚀 ꜱᴀʜɪʙɪᴍ', 'https://t.me/Nevarevladim')]
                     ),
                     link_preview=False
                    )
@@ -40,9 +40,9 @@ async def help(event):
   await event.reply(helptext,
                     buttons=(
                       [Button.url('🌟 ʙᴇɴɪ ʙɪʀ ɢʀᴜʙᴀ ᴇᴋʟᴇ', 'https://t.me/jacktaggerbot?startgroup=a'),
-                       Button.url('📣 ꜱᴜᴘᴘᴏʀᴛ', 'https://t.me/jackdanielssx'),
-                       Button.url('💻 ᴄʀᴇᴀᴛᴏʀ', 'https://t.me/jackdanielssx'),
-                      Button.url('🚀 ꜱᴀʜɪʙɪᴍ', 'https://t.me/jackdanielssx')]
+                       
+                       Button.url('💻 ᴄʀᴇᴀᴛᴏʀ', 'https://t.me/Nevarevladim'),
+                      Button.url('🚀 ꜱᴀʜɪʙɪᴍ', 'https://t.me/Nevarevladim')]
                     ),
                     link_preview=False
                    )
@@ -108,5 +108,5 @@ async def mentionall(event):
         usrtxt = ""
 
 
-print(">> ʙᴏᴛ ᴄᴀʟɪʏᴏʀ ᴍᴇʀᴀᴋ ᴇᴛᴍᴇ 🚀 @jackdanielssx ʙɪʟɢɪ ᴀʟᴀʙɪʟɪʀꜱɪɴ <<")
+print(">> ʙᴏᴛ ᴄᴀʟɪʏᴏʀ ᴍᴇʀᴀᴋ ᴇᴛᴍᴇ 🚀 @nevarevladim ʙɪʟɢɪ ᴀʟᴀʙɪʟɪʀꜱɪɴ <<")
 client.run_until_disconnected()
